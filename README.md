@@ -3,8 +3,8 @@
 
 👋 Hi, I am Xinyu Chen.
 
-- 🔭 I’m currently working on tensor learning algorithms
+- 🔭 I’m currently working on tensor learning
 - 🌱 I’m currently learning interesting stuff
-- 🤔 Beside's programming, I enjoy reading and traveling.
-- 💬 Ask me about my research and GitHub repositories!
+- 🤔 Beside's coding, I enjoy reading and traveling.
+- 💬 Ask me about my research and repositories!
 - 📫 How to reach me: [chenxy346@gmail.com](chenxy346@gmail.com)
