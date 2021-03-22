@@ -6,8 +6,7 @@
 
 👋 Hi, I am **Xinyu Chen**, PhD student [@UMontreal](https://twitter.com/UMontreal).
 
-- 🌱 Areas: Machine learning | data | transport.
-- 🔭 Strong advocate of open & reproducible research.
+- 🌱 Strong advocate of open & reproducible research.
 - 🤔 Beside's coding, I enjoy reading & traveling.
 - 💬 Ask me questions about my research!
 - 📫 How to reach me: [chenxy346@gmail.com](chenxy346@gmail.com)
