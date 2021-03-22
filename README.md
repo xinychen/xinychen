@@ -4,10 +4,10 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=xinychen&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 
-👋 Hi, I am **Xinyu Chen**, PhD candidate [@UMontreal](https://twitter.com/UMontreal).
+👋 Hi, I am **Xinyu Chen**, PhD student [@UMontreal](https://twitter.com/UMontreal).
 
-- 🔭 A strong advocate of open and reproducible research.
-- 🌱 Interests: Machine learning | data | transportation.
+- 🌱 Areas: Machine learning | data | transportation.
+- 🔭 Strong advocate of open & reproducible research.
 - 🤔 Beside's coding, I enjoy reading & traveling.
 - 💬 Ask me questions about my research!
 - 📫 How to reach me: [chenxy346@gmail.com](chenxy346@gmail.com)
