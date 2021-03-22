@@ -7,7 +7,7 @@
 👋 Hi, I am **Xinyu Chen**, PhD candidate [@UMontreal](https://twitter.com/UMontreal).
 
 - 🔭 A strong advocate of open and reproducible research.
-- 🌱 Interests: Machine learning | Data | transportation.
+- 🌱 Interests: Machine learning | data | transportation.
 - 🤔 Beside's coding, I enjoy reading & traveling.
-- 💬 Ask me questions about my research and repositories!
+- 💬 Ask me questions about my research!
 - 📫 How to reach me: [chenxy346@gmail.com](chenxy346@gmail.com)
