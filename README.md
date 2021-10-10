@@ -5,7 +5,7 @@
 
 👋 Hi, I am **Xinyu Chen**, PhD student [@UMontreal](https://twitter.com/UMontreal).
 
-- 🌱 An advocate of open & reproducible research.
+- 🌱 A strong advocate of open-source & reproducible research.
 - ✍️ Write blog posts on [Medium](https://medium.com/@chenxy346_89582) (6.5K+ views).
 - 🤔 Beside's coding, I enjoy reading & traveling.
 - 💬 Ask me questions about my research!
