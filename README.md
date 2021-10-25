@@ -8,5 +8,4 @@
 - 🌱 A strong advocate of open-source & reproducible research.
 - ✍️ Write blog posts on [Medium](https://medium.com/@xinyu.chen) (10K+ views).
 - 🤔 Beside's coding, I enjoy reading & traveling.
-- 💬 Ask me questions about my research!
-- 📫 How to reach me: [chenxy346@gmail.com](chenxy346@gmail.com)
+- 💬 Ask me questions about my research! 📫 How to reach me: [chenxy346@gmail.com](chenxy346@gmail.com)
