@@ -3,9 +3,9 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=xinychen&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
 
-👋 Hi, I am **Xinyu Chen**, PhD student [@UMontreal](https://twitter.com/UMontreal).
+👋 Hi, I'm **Xinyu Chen**, PhD student [@UMontreal](https://twitter.com/UMontreal).
 
 - 🌱 A strong advocate of open-source & reproducible research.
-- ✍️ Write blog posts on [Medium](https://medium.com/@xinyu.chen) (10K+ views).
-- 🤔 Beside's coding, I enjoy reading & traveling.
+- ✍️ Write some blog posts on [Medium](https://medium.com/@xinyu.chen) (12K+ views).
+- 🤔 Besides coding, I enjoy reading & traveling.
 - 💬 Ask me questions about my research! 📫 How to reach me: [chenxy346@gmail.com](chenxy346@gmail.com)
