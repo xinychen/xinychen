@@ -6,7 +6,7 @@
 
 - 🌱 A strong advocate of open-source & reproducible research.
 - 🤔 Besides coding, I enjoy reading & traveling.
-- 💬 Create new ideas about [spatiotemporal data](https://spatiotemporal-data.github.io).
+- 💬 Create new ideas about [spatiotemporal data modeling](https://spatiotemporal-data.github.io).
 - 📫 How to reach me: [chenxy346@gmail.com](chenxy346@gmail.com)
 
 **Latest Publications**
