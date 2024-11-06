@@ -2,7 +2,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=xinychen&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
 
-👋 I'm **Xinyu Chen**, now a Postdoctoral Associate at MIT (see [MIT sites](https://sites.mit.edu/xinychen)). Before joining MIT, I received PhD degree from [University of Montreal](https://www.umontreal.ca/en/) in Canada.
+👋 I'm [Xinyu Chen](https://xinychen.github.io), now a Postdoctoral Associate at MIT (👉 visit [MIT sites](https://sites.mit.edu/xinychen)). Prior to joining MIT, I received PhD degree from [University of Montreal](https://www.umontreal.ca/en/) in Canada.
 
 - 🌱 A strong advocate of open-source & reproducible research.
 - 🤔 Besides coding, I enjoy reading & traveling.
@@ -18,4 +18,4 @@
 
 **Latest Posts**
 
-- [Time Series Convolution](https://spatiotemporal-data.github.io/posts/ts_conv/). A convolutional kernel approach for reinforcing the modeling of time series trends and interpreting temporal patterns, allowing one to leverage Fourier transforms and learn sparse representations. The interpretable machine learning models such as sparse regression unlock opportunities to better capture the long-term changes and temporal patterns of real-world time series.
+- 🔨 [Time Series Convolution](https://spatiotemporal-data.github.io/posts/ts_conv/). A convolutional kernel approach for reinforcing the modeling of time series trends and interpreting temporal patterns, allowing one to leverage Fourier transforms and learn sparse representations. The interpretable machine learning models such as sparse regression unlock opportunities to better capture the long-term changes and temporal patterns of real-world time series.
