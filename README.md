@@ -18,6 +18,10 @@
 - Xinyu Chen, Chengyuan Zhang, Xiaoxu Chen, Nicolas Saunier, Lijun Sun (2024). [Discovering dynamic patterns from spatiotemporal data with time-varying low-rank autoregression](https://doi.org/10.1109/TKDE.2023.3294440). *IEEE Transactions on Knowledge and Data Engineering*. 36 (2): 504-517. [[PDF](https://xinychen.github.io/papers/time_varying_model.pdf)] [[Blog post](https://spatiotemporal-data.github.io/posts/time_varying_model/)] [[Data & Python code](https://github.com/xinychen/vars)]
 - Xinyu Chen, Lijun Sun (2022). [Bayesian temporal factorization for multidimensional time series prediction](https://doi.org/10.1109/TPAMI.2021.3066551). *IEEE Transactions on Pattern Analysis and Machine Intelligence*. 44 (9): 4659-4673. [[Slides](https://doi.org/10.5281/zenodo.4693404)] [[Data & Python code](https://github.com/xinychen/transdim)]
 
-**Latest Posts**
+**Selected Blog Posts**
 
-- 🔨 [Time Series Convolution](https://spatiotemporal-data.github.io/posts/ts_conv/). A convolutional kernel approach for reinforcing the modeling of time series trends and interpreting temporal patterns, allowing one to leverage Fourier transforms and learn sparse representations. The interpretable machine learning models such as sparse regression unlock opportunities to better capture the long-term changes and temporal patterns of real-world time series.
+- 🔨 [Time Series Convolution](https://spatiotemporal-data.github.io/posts/ts_conv/). Convolutional kernel approaches for understanding the importance of time series trends and interpreting temporal patterns, allowing one to improve the performance of time series imputation and learn sparse representations of temporal correlations.
+
+**Research Visualization**
+
+- [Time Series Periodicity](https://xinychen.github.io/ts_periodicity). An interactive visualization tool for showing time series periodicity of Chicago ridesharing trips in two weeks since April 1, 2024.
