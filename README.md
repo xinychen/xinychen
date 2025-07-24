@@ -4,7 +4,7 @@
 
 👋 I'm [Xinyu Chen](https://xinychen.github.io), now a Postdoctoral Associate at MIT (👉 visit [MIT sites](https://sites.mit.edu/xinychen)). Prior to joining MIT, I received PhD degree from [University of Montreal](https://www.umontreal.ca/en/) in Canada.
 
-- 🌱 A strong advocate of open-source & reproducible research.
+- 🌱 A strong advocate for open-source & reproducible research.
 - 🤔 Besides coding, I enjoy reading & traveling.
 - 💬 Create new ideas about [spatiotemporal data computing](https://spatiotemporal-data.github.io).
 - 📫 How to reach me: [chenxy346@gmail.com](chenxy346@gmail.com)
