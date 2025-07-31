@@ -1,4 +1,4 @@
-[![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-blue)](https://scholar.google.com/citations?user=mCrW04wAAAAJ&hl=en) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5)](https://www.linkedin.com/in/xinyu-chen-567827309/) [![YouTube](https://img.shields.io/badge/YouTube-FF0000)](https://www.youtube.com/@data-worker) [![Xiaohongshu](https://img.shields.io/badge/Xiaohongshu-FF2442)](https://www.xiaohongshu.com/user/profile/60448dba0000000001002acc)
+[![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-blue)](https://scholar.google.com/citations?user=mCrW04wAAAAJ&hl=en) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5)](https://www.linkedin.com/in/xinyu-chen-567827309/) [![YouTube](https://img.shields.io/badge/YouTube-FF0000)](https://www.youtube.com/@data-worker)
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=xinychen&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
 
