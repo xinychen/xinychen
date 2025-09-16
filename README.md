@@ -1,11 +1,10 @@
-[![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-blue)](https://scholar.google.com/citations?user=mCrW04wAAAAJ&hl=en) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5)](https://www.linkedin.com/in/xinyu-chen-567827309/) [![YouTube](https://img.shields.io/badge/YouTube-FF0000)](https://www.youtube.com/@data-worker)
+[![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-blue)](https://scholar.google.com/citations?user=mCrW04wAAAAJ&hl) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5)](https://www.linkedin.com/in/xinyu-chen-567827309/) [![YouTube](https://img.shields.io/badge/YouTube-FF0000)](https://www.youtube.com/@data-worker)
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=xinychen&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 👋 I'm [Xinyu Chen](https://xinychen.github.io), now a Postdoctoral Associate at MIT (👉 visit [MIT sites](https://sites.mit.edu/xinychen)). Prior to joining MIT, I received PhD degree from [University of Montreal](https://www.umontreal.ca/en/) in Canada.
 
 - 🌱 A strong advocate for open-source & reproducible research.
-- 🤔 Besides coding, I enjoy reading & traveling.
 - 💬 Create new ideas about [spatiotemporal data computing](https://spatiotemporal-data.github.io).
 - 📫 How to reach me: [chenxy346@gmail.com](chenxy346@gmail.com)
 
